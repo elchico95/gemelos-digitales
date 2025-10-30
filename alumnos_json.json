@@ -1,0 +1,57 @@
+[
+    {
+        "id" : 1,
+        "nombre" : "Wenceslao",
+        "apellidos" : "ApellidoW",
+        "edad" : 26,
+        "notas" : [9, 10, 11, 9],
+        "faltas" : 0,
+        "supera" : true
+    },
+        {
+        "id" : 2,
+        "nombre" : "Juan Luis",
+        "apellidos" : "ApellidoJL",
+        "edad" : 26,
+        "notas" : [9, 10, 11, 9],
+        "faltas" : 0,
+        "supera" : true
+    },
+        {
+        "id" : 3,
+        "nombre" : "Antonio",
+        "apellidos" : "AmellidoA",
+        "edad" : 26,
+        "notas" : [9, 10, 11, 9],
+        "faltas" : 0,
+        "supera" : true
+    },
+        {
+        "id" : 4,
+        "nombre": "Anabel",
+        "apellidos" : "ApellidoAB",
+        "edad" : 20,
+        "notas" : [9, 10, 11, 9],
+        "faltas" : 0,
+        "supera" : true
+    },
+        {
+        "id" : 5,
+        "nombre" : "Anabel",
+        "apellidos" : "ApellidoAB",
+        "edad" : 21,
+        "notas" : [9, 10, 11, 9],
+        "faltas" : 0,
+        "supera" : true
+    },
+    {
+        "id" : 6,
+        "nombre" : "Alfonso",
+        "apellidos" : "ApellidoAF",
+        "edad" : 21,
+        "notas" : [9, 10, 11, 9],
+        "faltas" : 0,
+        "supera" : true
+    }
+
+]
