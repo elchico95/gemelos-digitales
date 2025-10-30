@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
 
 
-#           ############33        EXPLICACION DE LA FUNCIÓN     ##################
+#  ####       EXPLICACION DE LA FUNCIÓN     ##################
 
 
 # alumnos → es toda la clase, todos los registros de alumnos.
