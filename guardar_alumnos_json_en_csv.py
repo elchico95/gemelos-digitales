@@ -1,3 +1,4 @@
+#Guaradar la lista de los diccionarios de los resultados de los alumnos con sus notas medias de un archiuvo json  a un csv 
 import json
 import csv
 
@@ -23,7 +24,7 @@ def calcular_media(alumnos):
             "supera": alumno["supera"]
         }
 
-        # Añadimos este diccionario al final de nuestra lista 'alumnos_con_media'.
+        # Añadimos este diccionario al final de la lista 'alumnos_con_media'.
         # 'append' agrega un solo elemento al final de la lista.
         alumnos_con_media.append(alumno_con_media)
     
