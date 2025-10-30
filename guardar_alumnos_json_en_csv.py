@@ -23,7 +23,7 @@ def calcular_media(alumnos):
             "supera": alumno["supera"]
         }
 
-        # Añadimos este diccionario al final de la lista 'alumnos_con_media'.
+        # Añadimos este diccionario al final de nuestra lista 'alumnos_con_media'.
         # 'append' agrega un solo elemento al final de la lista.
         alumnos_con_media.append(alumno_con_media)
     
