@@ -1,4 +1,4 @@
-#Guaradar la lista de los diccionarios de los resultados de los alumnos con sus notas medias de un archiuvo json  a un csv 
+#Guaradar la lista de los resultados de los alumnos con sus notas medias de un archiuvo json  a un csv 
 import json
 import csv
 
