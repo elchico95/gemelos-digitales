@@ -35,6 +35,7 @@ if __name__ == "__main__":
     # 1️⃣ Leemos el archivo JSON original
     with open("alumnos_json.json", "r", encoding="utf-8") as f:
         alumnos = json.load(f)
+    # NOTA: recuerda poner el directorio corecto del fichero alumnos.json 
 
     # 2️⃣ Calculamos las medias
     alumnos_con_media = calcular_media(alumnos)
